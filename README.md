@@ -1,4 +1,4 @@
-# This is project Using which you can automatically change background in linux just like windows slideshow
+# This project allows you to automatically change the background in Linux, similar to the Windows slideshow feature.
 
 ### Step 1: Save Your Script
 Save the above script file to a required location, for example, `change_background.sh` in your home directory.
